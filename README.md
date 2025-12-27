@@ -15,8 +15,10 @@ Tree Pruning: Employs a depth-first approach to refine decision paths and enhanc
 
 IMPLEMENTATION 
 
-Environment: Developed in Python using the XGBoost library, Pandas, and Scikit-Learn.
+Environment: The model is developed in Python Jupyter Notebook in Google Colab using the XGBoost library, Pandas, and Scikit-Learn.
 
-Feature Engineering: Includes categorical encoding and statistical analysis of 13 variables to identify primary price drivers.
+Feature Engineering: It includes data preparation, feature extraction, categorical encoding and statistical analysis of 13 variables to identify primary price drivers.
 
-Optimization: Involves systematic tuning of hyperparameters, specifically learning rates and maximum tree depth, to ensure model stability
+Optimization: Involves systematic tuning of hyperparameters, L1/L2 regularization, tree-pruning
+
+Performance: The model is evaluated using mean absolute percent error and normalized RMSE value (adjusted by average).
