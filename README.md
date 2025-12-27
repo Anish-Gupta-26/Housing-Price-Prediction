@@ -19,6 +19,6 @@ Environment: The model is developed in Python Jupyter Notebook in Google Colab u
 
 Feature Engineering: It includes data preparation, feature extraction, categorical encoding and statistical analysis of 13 variables to identify primary price drivers.
 
-Optimization: Involves systematic tuning of hyperparameters, L1/L2 regularization, tree-pruning
+Optimization: Involves systematic tuning of hyperparameters, L1(lasso) and L2(ridge) regularization to prevent overfitting problem.
 
 Performance: The model is evaluated using mean absolute percent error and normalized RMSE value (adjusted by average).
