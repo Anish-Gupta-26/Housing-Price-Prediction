@@ -13,6 +13,10 @@ Sparsity Awareness: Features built-in handling for missing data and sparse featu
 
 Tree Pruning: Employs a depth-first approach to refine decision paths and enhance predictive logic.
 
+
+<img width="1197" height="340" alt="image" src="https://github.com/user-attachments/assets/20cef8ff-8e78-4f92-a664-6e3d82f53961" />
+
+
 IMPLEMENTATION 
 
 Environment: The model is developed in Python Jupyter Notebook in Google Colab using the XGBoost library, Pandas, and Scikit-Learn.
