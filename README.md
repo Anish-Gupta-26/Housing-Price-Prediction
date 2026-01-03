@@ -1,6 +1,8 @@
 HOUSING PRICE PREDICTION
 
-This project implements a regression based model to forecast residential property values using the eXtreme Gradient Boosting (XGBoost) algorithm. The model processes 13 key characterstics to determine the prices of houses
+This project implements a regression based model to forecast residential property values using the eXtreme Gradient Boosting (XGBoost) algorithm. The model processes 13 key characterstics to determine the prices of houses.
+
+This project was initially built using Linear Regression algorithm and later enhanced by employing XGBoost approach which achieves better performance and lower error rate.
 
 
 KEY FEATURES
